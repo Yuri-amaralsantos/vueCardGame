@@ -5,7 +5,7 @@
     <Board :game="game" side="player" />
     <br>  
     <Hand :game="game" />
-    
+    <h1></h1>
     </div>
     <MenuGeral :game="game" />
   </div>
